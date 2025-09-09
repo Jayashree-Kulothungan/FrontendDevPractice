@@ -7,8 +7,8 @@ function App() {
 				<article className="card">
 					<img
 						className="qrcode"
-						src="../images/image-qr-code.png"
-						alt="Avatar"
+						src="/images/image-qr-code.png"
+						alt="Qr Code"
 					></img>
 					<section className="card-texts">
 						<h1 className="text-1">
