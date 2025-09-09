@@ -50,10 +50,6 @@ I started by breaking down the Figma design into a simple skeleton structure usi
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
 This project helped me practice translating **Figma specs into CSS**. For example, the design used auto-layout with padding `16px 16px 40px 16px` and a gap of `24px`, which directly translated into:
 
 ```css
@@ -68,7 +64,7 @@ This project helped me practice translating **Figma specs into CSS**. For exampl
 
 ### Useful resources
 
-- [CSS Tricks - Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - T– Helped me refine flexbox centering.
+- [CSS Tricks - Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Helped me refine flexbox centering.
 
 ## Author
 
