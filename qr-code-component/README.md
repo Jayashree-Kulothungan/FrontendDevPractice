@@ -33,8 +33,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Jayashree-Kulothungan/FrontendDevPractice/tree/main/qr-code-component)
+- Live Site URL: [Live URL](https://classy-wisp-da042d.netlify.app/)
 
 ## My process
 
